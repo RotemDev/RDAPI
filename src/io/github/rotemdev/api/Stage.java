@@ -1,5 +1,9 @@
 package io.github.rotemdev.api;
-
+/**
+ * The {@link Stage} class holds API (Or any program) development stages
+ * @author RotemDev
+ *
+ */
 public class Stage {
 	public static final int BLEEDING = -1;
 	public static final int ALPHA = 0;

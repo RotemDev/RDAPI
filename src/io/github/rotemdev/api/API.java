@@ -1,6 +1,7 @@
 package io.github.rotemdev.api;
 
 /**
+ * This is the API reference class, which holds all variables.
  * @author RotemDev
  *
  */
