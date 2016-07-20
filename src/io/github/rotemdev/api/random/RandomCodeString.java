@@ -31,7 +31,9 @@ public class RandomCodeString extends RandomCode {
 		seed = new Random().nextInt(10);
 		random = new Random(seed);
 	}
-	
+	/**
+	 * This method generates the code
+	 */
 	@Override
 	public String generateCode() {
 		String code = "";
