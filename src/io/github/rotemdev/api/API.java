@@ -16,7 +16,7 @@ public class API {
 	/** The stage (Alpha = 0) */
 	public static final int STAGE = Stage.ALPHA;
 	/** The packages inside the API */
-	public static final String[] PACKAGES = { "ANIMAL", "RANDOM" };
+	public static final String[] PACKAGES = { "ANIMAL", "RANDOM", "TESTER"};
 
 	/**
 	 * @return the API Name
