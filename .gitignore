@@ -3,6 +3,11 @@
 # Eclpise .prefs file
 *.prefs
 
+# HTML, CSS, JS
+*.html
+*.css
+*.js
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
